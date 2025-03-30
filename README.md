@@ -2,7 +2,7 @@
 
 Hola soy Juan David Moreno, Ingeniero de Sistemas y Computación de la Universidad del Quindío. Actualmente estudiante de Maestría en Ingeniería con énfasis en Ingeniería de Software. Trabajo como Ingeniero de Desarrollador de Software Junior. 
 
-Hi, I'm Juan David Moreno, Systems and Computing Engineer from the University of Quindío. He is currently a Master of Engineering student with an emphasis in Software Engineering. He worked as a Junior Software Developer Engineer.
+Hello, I'm Juan David Moreno, a Systems and Computer Engineer from the University of Quindío. I'm currently a Master's student in Engineering with an emphasis on Software Engineering. I work as a Junior Software Development Engineer.
 
 
 ## Tecnologías / Technologies: 
