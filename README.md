@@ -16,7 +16,7 @@ Hello, I'm Juan David Moreno, a Systems and Computer Engineer from the Universit
 <br>
 <div style="display: inline;margin-left: auto;margin-right: auto;width: 40%;">
 <img src="https://www.learnfly.com/img/post_img/1324041535_1_o5fmjktpdjtbhge2mijo6w.jpeg" alt="Spring Boot" style="width:120px;height:80px;">
-<img src="https://img2.freepng.es/20180320/cqq/kisspng-microsoft-sql-server-computer-programming-table-qu-sql-file-icon-5ab0cfc857b139.1362772015215369683592.jpg" alt="SQL" style="width:140px;height:80px;">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.netgen.co.za%2Fservices%2Fcustom-software-solutions%2Fsql-database%2F&psig=AOvVaw3N8QeWwmwRHMuZ2tpgsvUz&ust=1743435791795000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwi2yd7JkrKMAxUSr7AFHWFzKE8QjRx6BAgAEBk" alt="SQL" style="width:140px;height:80px;">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1N8BTfYhwnCoc01RMQg6angZwq3lmhW_2Gg&usqp=CAU" alt="HTML" style="width:120px;height:50px;">
 <img src="https://w7.pngwing.com/pngs/146/54/png-transparent-css-button-icon.png" alt="CSS" style="width:120px;height:50px;">
 </div>
