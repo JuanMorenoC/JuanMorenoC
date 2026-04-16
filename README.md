@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Juan David Moreno Cifuentes
 
-### 🚀 Software Engineer | Master's Student in Software Engineering
+### 🚀 Software Engineer | Master's in Software Engineering
 Ingeniero de Sistemas y Computación apasionado por el desarrollo web, la Inteligencia Artificial y el procesamiento de datos.
 
-- 🎓 Actualmente cursando **Maestría en Ingeniería de Software** [2023 - 2025].
+- 🎓 Soy **Magister en Ingeniería de Software** [2023 - 2025].
 - 💻 **Junior Software Developer** en IKNO SAS, enfocado en soluciones de IA y exportación de datos.
 - 📍 Armenia, Quindío, Colombia.
 
