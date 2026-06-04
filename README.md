@@ -4,7 +4,8 @@
 Ingeniero de Sistemas y Computación apasionado por el desarrollo web, la Inteligencia Artificial y el procesamiento de datos.
 
 - 🎓 Soy **Magister en Ingeniería de Software** [2023 - 2025].
-- 💻 **Junior Software Developer** en IKNO SAS, enfocado en soluciones de IA y exportación de datos.
+- 💻 **Junior Software Developer** en IKNO SAS (2022 - 2026), enfocado en soluciones de IA y exportación de datos.
+- 💻 **Software Developer Fullstack / Analista de datos** de manera Independiente (2026-Actualmente)
 - 📍 Armenia, Quindío, Colombia.
 
 ---
